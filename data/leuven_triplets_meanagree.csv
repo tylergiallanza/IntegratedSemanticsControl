@@ -1,0 +1,235 @@
+,tname,head,O1,O2,pChoseO1,pMaj,Winner,ttype,ircosPred,modAcc,twoDPred,twoDAcc,glovePred,gloveAcc
+v1,bumblebee_ant_spider,bumblebee,ant,spider,0.611111111111111,0.611111111111111,ant,CC,ant,1,ant,1,ant,1
+v2,mosquito_eagle_earwig,mosquito,eagle,earwig,0.297297297297297,0.702702702702703,earwig,CD,earwig,1,earwig,1,eagle,0
+v3,ladybug_earwig_radish,ladybug,earwig,radish,0.567567567567568,0.567567567567568,earwig,COD,earwig,1,earwig,1,earwig,1
+v4,louse_goldfish_squid,louse,goldfish,squid,0.405405405405405,0.594594594594595,squid,DD,goldfish,0,goldfish,0,goldfish,0
+v5,centipede_beaver_t-shirt,centipede,beaver,t-shirt,0.864864864864865,0.864864864864865,beaver,DOD,beaver,1,beaver,1,beaver,1
+v6,cockroach_harp_screwdriver,cockroach,harp,screwdriver,0.432432432432432,0.567567567567568,screwdriver,ODOD,screwdriver,1,screwdriver,1,NA,NA
+v1.1,piranha_anchovy_salmon,piranha,anchovy,salmon,0.27027027027027,0.72972972972973,salmon,CC,salmon,1,salmon,1,anchovy,0
+v2.1,northern pike_dinosaur_sardine,northern pike,dinosaur,sardine,0.189189189189189,0.810810810810811,sardine,CD,sardine,1,sardine,1,sardine,1
+v3.1,whale_passionfruit_shark,whale,passionfruit,shark,0.0810810810810811,0.918918918918919,shark,COD,shark,1,shark,1,NA,NA
+v4.1,dolphin_rhinoceros_vulture,dolphin,rhinoceros,vulture,0.864864864864865,0.864864864864865,rhinoceros,DD,vulture,0,rhinoceros,1,vulture,0
+v5.1,whale_harmonica_owl,whale,harmonica,owl,0.108108108108108,0.891891891891892,owl,DOD,owl,1,owl,1,owl,1
+v6.1,piranha_boat_jar,piranha,boat,jar,0.837837837837838,0.837837837837838,boat,ODOD,jar,0,boat,1,jar,0
+v1.2,dinosaur_cobra_gecko,dinosaur,cobra,gecko,0.27027027027027,0.72972972972973,gecko,CC,gecko,1,cobra,0,gecko,1
+v2.2,alligator_python_rhinoceros,alligator,python,rhinoceros,0.621621621621622,0.621621621621622,python,CD,python,1,rhinoceros,0,python,1
+v3.2,salamander_gecko_socks,salamander,gecko,socks,0.756756756756757,0.756756756756757,gecko,COD,gecko,1,gecko,1,gecko,1
+v4.2,salamander_eel_seagull,salamander,eel,seagull,0.783783783783784,0.783783783783784,eel,DD,eel,1,seagull,0,eel,1
+v5.2,snake_fly_kettle,snake,fly,kettle,0.864864864864865,0.864864864864865,fly,DOD,fly,1,fly,1,fly,1
+v6.2,crocodile_beet_jeans,crocodile,beet,jeans,0.756756756756757,0.756756756756757,beet,ODOD,jeans,0,beet,1,jeans,0
+v1.3,penguin_blackbird_parakeet,penguin,blackbird,parakeet,0.75,0.75,blackbird,CC,blackbird,1,blackbird,1,blackbird,1
+v2.3,chicken_heron_wasp,chicken,heron,wasp,0.810810810810811,0.810810810810811,heron,CD,heron,1,heron,1,heron,1
+v3.3,peacock_clementine_stork,peacock,clementine,stork,0.0810810810810811,0.918918918918919,stork,COD,stork,1,stork,1,stork,1
+v4.3,woodpecker_hamster_sheep,woodpecker,hamster,sheep,0.810810810810811,0.810810810810811,hamster,DD,sheep,0,hamster,1,hamster,1
+v5.3,chicken_rabbit_teaspoon,chicken,rabbit,teaspoon,0.918918918918919,0.918918918918919,rabbit,DOD,teaspoon,0,rabbit,1,rabbit,1
+v6.3,turkey_blackberry_spoon,turkey,blackberry,spoon,0.756756756756757,0.756756756756757,blackberry,ODOD,blackberry,1,blackberry,1,blackberry,1
+v1.4,tiger_lion_monkey,tiger,lion,monkey,0.918918918918919,0.918918918918919,lion,CC,lion,1,lion,1,lion,1
+v2.4,brown bat_parakeet_polar bear,brown bat,parakeet,polar bear,0.648648648648649,0.648648648648649,parakeet,CD,polar bear,0,parakeet,1,NA,NA
+v3.4,hippopotamus_monkey_spear,hippopotamus,monkey,spear,0.810810810810811,0.810810810810811,monkey,COD,monkey,1,monkey,1,monkey,1
+v4.4,kangaroo_cobra_peacock,kangaroo,cobra,peacock,0.243243243243243,0.756756756756757,peacock,DD,cobra,0,cobra,0,peacock,1
+v5.4,giraffe_horsefly_pickaxe,giraffe,horsefly,pickaxe,0.756756756756757,0.756756756756757,horsefly,DOD,horsefly,1,horsefly,1,horsefly,1
+v6.4,cow_brussels sprouts_halter top,cow,brussels sprouts,halter top,0.810810810810811,0.810810810810811,brussels sprouts,ODOD,brussels sprouts,1,brussels sprouts,1,NA,NA
+v1.5,pineapple_clementine_kiwi,pineapple,clementine,kiwi,0.216216216216216,0.783783783783784,kiwi,CC,kiwi,1,kiwi,1,kiwi,1
+v2.5,peach_banana_eggplant,peach,banana,eggplant,0.864864864864865,0.864864864864865,banana,CD,banana,1,banana,1,banana,1
+v3.5,papaya_pineapple_wok,papaya,pineapple,wok,0.810810810810811,0.810810810810811,pineapple,COD,pineapple,1,pineapple,1,pineapple,1
+v4.5,melon_beet_potato,melon,beet,potato,0.486486486486487,0.513513513513513,potato,DD,potato,1,potato,1,beet,0
+v5.5,banana_asparagus_teaspoon,banana,asparagus,teaspoon,0.918918918918919,0.918918918918919,asparagus,DOD,asparagus,1,asparagus,1,asparagus,1
+v6.5,peach_harpsichord_plate,peach,harpsichord,plate,0.277777777777778,0.722222222222222,plate,ODOD,harpsichord,0,harpsichord,0,plate,1
+v1.6,celery_garlic_onion,celery,garlic,onion,0.459459459459459,0.540540540540541,onion,CC,onion,1,onion,1,onion,1
+v2.6,beet_fig_tomato,beet,fig,tomato,0.540540540540541,0.540540540540541,fig,CD,tomato,0,tomato,0,tomato,0
+v3.6,beet_centipede_lettuce,beet,centipede,lettuce,0.0810810810810811,0.918918918918919,lettuce,COD,lettuce,1,lettuce,1,lettuce,1
+v4.6,eggplant_pumpkin_strawberry,eggplant,pumpkin,strawberry,0.783783783783784,0.783783783783784,pumpkin,DD,strawberry,0,strawberry,0,pumpkin,1
+v5.6,garlic_apricot_deer,garlic,apricot,deer,0.891891891891892,0.891891891891892,apricot,DOD,apricot,1,apricot,1,apricot,1
+v6.6,pea_ostrich_shield,pea,ostrich,shield,0.777777777777778,0.777777777777778,ostrich,ODOD,shield,0,shield,0,ostrich,1
+v1.7,spanner_chisel_oilcan,spanner,chisel,oilcan,0.864864864864865,0.864864864864865,chisel,CC,chisel,1,oilcan,0,NA,NA
+v2.7,spanner_putty knife_scooter,spanner,putty knife,scooter,0.783783783783784,0.783783783783784,putty knife,CD,putty knife,1,putty knife,1,NA,NA
+v3.7,screwdriver_carpenter's level_raspberry,screwdriver,carpenter's level,raspberry,0.944444444444444,0.944444444444444,carpenter's level,COD,carpenter's level,1,carpenter's level,1,carpenter's level,1
+v4.7,oilcan_t-shirt_tractor,oilcan,t-shirt,tractor,0.189189189189189,0.810810810810811,tractor,DD,tractor,1,tractor,1,NA,NA
+v5.7,wrench_mango_neck tie,wrench,mango,neck tie,0.166666666666667,0.833333333333333,neck tie,DOD,mango,0,mango,0,neck tie,1
+v6.7,shovel_carp_clementine,shovel,carp,clementine,0.567567567567568,0.567567567567568,carp,ODOD,carp,1,carp,1,clementine,0
+v1.8,mug_apron_sieve,mug,apron,sieve,0.324324324324324,0.675675675675676,sieve,CC,sieve,1,apron,0,apron,0
+v2.8,placemat_mug_socks,placemat,mug,socks,0.611111111111111,0.611111111111111,mug,CD,mug,1,mug,1,NA,NA
+v3.8,can opener_bottle_fig,can opener,bottle,fig,0.891891891891892,0.891891891891892,bottle,COD,bottle,1,bottle,1,NA,NA
+v4.8,dish towel_bagpipe_drumset,dish towel,bagpipe,drumset,0.567567567567568,0.567567567567568,bagpipe,DD,drumset,0,bagpipe,1,NA,NA
+v5.8,wok_banana_jeep,wok,banana,jeep,0.594594594594595,0.594594594594595,banana,DOD,jeep,0,jeep,0,banana,1
+v6.8,furnace_papaya_plum,furnace,papaya,plum,0.351351351351351,0.648648648648649,plum,ODOD,papaya,0,papaya,0,plum,1
+v1.9,drumset_harp_tambourine,drumset,harp,tambourine,0.27027027027027,0.72972972972973,tambourine,CC,harp,0,harp,0,NA,NA
+v2.9,accordion_harmonica_slingshot,accordion,harmonica,slingshot,0.864864864864865,0.864864864864865,harmonica,CD,harmonica,1,harmonica,1,harmonica,1
+v3.9,violin_bass guitar_lion,violin,bass guitar,lion,0.918918918918919,0.918918918918919,bass guitar,COD,bass guitar,1,bass guitar,1,NA,NA
+v4.9,synthesizer_coat_crowbar,synthesizer,coat,crowbar,0.27027027027027,0.72972972972973,crowbar,DD,crowbar,1,crowbar,1,crowbar,1
+v5.9,bagpipe_axe_polar bear,bagpipe,axe,polar bear,0.945945945945946,0.945945945945946,axe,DOD,axe,1,polar bear,0,NA,NA
+v6.9,accordion_beetle_mushroom,accordion,beetle,mushroom,0.378378378378378,0.621621621621622,mushroom,ODOD,mushroom,1,mushroom,1,mushroom,1
+v1.10,sweat shirt_hat_pyjamas,sweat shirt,hat,pyjamas,0.405405405405405,0.594594594594595,pyjamas,CC,pyjamas,1,hat,0,NA,NA
+v2.10,sweat shirt_skirt_submarine,sweat shirt,skirt,submarine,0.944444444444444,0.944444444444444,skirt,CD,skirt,1,skirt,1,NA,NA
+v3.10,hat_boa constrictor_shoes,hat,boa constrictor,shoes,0.135135135135135,0.864864864864865,shoes,COD,shoes,1,shoes,1,shoes,1
+v4.10,coat_chisel_club,coat,chisel,club,0.27027027027027,0.72972972972973,club,DD,club,1,club,1,club,1
+v5.10,boots_llama_sword,boots,llama,sword,0.297297297297297,0.702702702702703,sword,DOD,sword,1,sword,1,sword,1
+v6.10,overalls_beet_piranha,overalls,beet,piranha,0.594594594594595,0.594594594594595,beet,ODOD,piranha,0,piranha,0,piranha,0
+v1.11,club_shield_spear,club,shield,spear,0.216216216216216,0.783783783783784,spear,CC,spear,1,shield,0,shield,0
+v2.11,machine gun_scarf_shield,machine gun,scarf,shield,0.108108108108108,0.891891891891892,shield,CD,shield,1,shield,1,shield,1
+v3.11,rifle_pistol_salmon,rifle,pistol,salmon,0.833333333333333,0.833333333333333,pistol,COD,pistol,1,pistol,1,pistol,1
+v4.11,shield_bass guitar_toaster,shield,bass guitar,toaster,0.513513513513513,0.513513513513513,bass guitar,DD,bass guitar,1,bass guitar,1,NA,NA
+v5.11,machine gun_lemon_putty knife,machine gun,lemon,putty knife,0.0810810810810811,0.918918918918919,putty knife,DOD,putty knife,1,lemon,0,NA,NA
+v6.11,pistol_flea_moth,pistol,flea,moth,0.555555555555556,0.555555555555556,flea,ODOD,flea,1,moth,0,NA,NA
+v1.12,cart_rocket_train,cart,rocket,train,0.027027027027027,0.972972972972973,train,CC,train,1,rocket,0,train,1
+v2.12,jeep_carriage_spatula,jeep,carriage,spatula,0.916666666666667,0.916666666666667,carriage,CD,carriage,1,carriage,1,carriage,1
+v3.12,rocket_mouse_truck,rocket,mouse,truck,0.0555555555555556,0.944444444444444,truck,COD,truck,1,truck,1,truck,1
+v4.12,hot air balloon_bathing suit_shovel,hot air balloon,bathing suit,shovel,0.486486486486487,0.513513513513513,shovel,DD,bathing suit,0,shovel,1,NA,NA
+v5.12,train_parrot_wood file,train,parrot,wood file,0.27027027027027,0.72972972972973,wood file,DOD,wood file,1,wood file,1,wood file,1
+v6.12,mo-ped_beetle_robin,mo-ped,beetle,robin,0.459459459459459,0.540540540540541,robin,ODOD,beetle,0,robin,1,robin,1
+v1.13,fly_dragonfly_ladybug,fly,dragonfly,ladybug,0.594594594594595,0.594594594594595,dragonfly,CC,dragonfly,1,dragonfly,1,dragonfly,1
+v2.13,fly_camel_worm,fly,camel,worm,0.111111111111111,0.888888888888889,worm,CD,worm,1,worm,1,worm,1
+v3.13,ant_centipede_screwdriver,ant,centipede,screwdriver,0.918918918918919,0.918918918918919,centipede,COD,centipede,1,centipede,1,centipede,1
+v4.13,moth_cod_horse,moth,cod,horse,0.594594594594595,0.594594594594595,cod,DD,cod,1,cod,1,cod,1
+v5.13,moth_dinosaur_nectarine,moth,dinosaur,nectarine,0.648648648648649,0.648648648648649,dinosaur,DOD,dinosaur,1,dinosaur,1,dinosaur,1
+v6.13,centipede_clementine_spear,centipede,clementine,spear,0.694444444444444,0.694444444444444,clementine,ODOD,spear,0,spear,0,clementine,1
+v1.14,goldfish_northern pike_orca,goldfish,northern pike,orca,0.621621621621622,0.621621621621622,northern pike,CC,northern pike,1,northern pike,1,orca,0
+v2.14,dolphin_orca_owl,dolphin,orca,owl,0.945945945945946,0.945945945945946,orca,CD,orca,1,orca,1,orca,1
+v3.14,whale_dolphin_sweater,whale,dolphin,sweater,0.918918918918919,0.918918918918919,dolphin,COD,dolphin,1,dolphin,1,dolphin,1
+v4.14,northern pike_canary_ostrich,northern pike,canary,ostrich,0.444444444444444,0.555555555555556,ostrich,DD,ostrich,1,ostrich,1,canary,0
+v5.14,salmon_gecko_mixer,salmon,gecko,mixer,0.837837837837838,0.837837837837838,gecko,DOD,gecko,1,gecko,1,mixer,0
+v6.14,anchovy_bean_nectarine,anchovy,bean,nectarine,0.611111111111111,0.611111111111111,bean,ODOD,nectarine,0,nectarine,0,nectarine,0
+v1.15,alligator_frog_toad,alligator,frog,toad,0.594594594594595,0.594594594594595,frog,CC,frog,1,toad,0,toad,0
+v2.15,boa constrictor_python_zebra,boa constrictor,python,zebra,0.945945945945946,0.945945945945946,python,CD,python,1,python,1,python,1
+v3.15,dinosaur_archery bow_tortoise,dinosaur,archery bow,tortoise,0.0810810810810811,0.918918918918919,tortoise,COD,tortoise,1,tortoise,1,NA,NA
+v4.15,turtle_bison_horse,turtle,bison,horse,0.378378378378378,0.621621621621622,horse,DD,bison,0,horse,1,bison,0
+v5.15,chameleon_grape_whale,chameleon,grape,whale,0.216216216216216,0.783783783783784,whale,DOD,grape,0,whale,1,grape,0
+v6.15,turtle_pineapple_watercress,turtle,pineapple,watercress,0.351351351351351,0.648648648648649,watercress,ODOD,pineapple,0,watercress,1,NA,NA
+v1.16,falcon_owl_robin,falcon,owl,robin,0.72972972972973,0.72972972972973,owl,CC,owl,1,owl,1,owl,1
+v2.16,heron_hedgehog_woodpecker,heron,hedgehog,woodpecker,0.324324324324324,0.675675675675676,woodpecker,CD,woodpecker,1,woodpecker,1,woodpecker,1
+v3.16,seagull_magpie_oven,seagull,magpie,oven,0.861111111111111,0.861111111111111,magpie,COD,magpie,1,magpie,1,magpie,1
+v4.16,rooster_deer_tiger,rooster,deer,tiger,0.702702702702703,0.702702702702703,deer,DD,tiger,0,tiger,0,deer,1
+v5.16,blackbird_accordion_earwig,blackbird,accordion,earwig,0.324324324324324,0.675675675675676,earwig,DOD,earwig,1,earwig,1,earwig,1
+v6.16,ostrich_bean_orange,ostrich,bean,orange,0.527777777777778,0.527777777777778,bean,ODOD,orange,0,orange,0,orange,0
+v1.17,giraffe_lion_sheep,giraffe,lion,sheep,0.594594594594595,0.594594594594595,lion,CC,lion,1,sheep,0,lion,1
+v2.17,hippopotamus_bison_eagle,hippopotamus,bison,eagle,0.837837837837838,0.837837837837838,bison,CD,bison,1,bison,1,bison,1
+v3.17,hedgehog_coat_hamster,hedgehog,coat,hamster,0.135135135135135,0.864864864864865,hamster,COD,hamster,1,hamster,1,hamster,1
+v4.17,horse_carp_lizard,horse,carp,lizard,0.25,0.75,lizard,DD,carp,0,carp,0,lizard,1
+v5.17,giraffe_blouse_wasp,giraffe,blouse,wasp,0.222222222222222,0.777777777777778,wasp,DOD,wasp,1,wasp,1,wasp,1
+v6.17,cow_blouse_mo-ped,cow,blouse,mo-ped,0.378378378378378,0.621621621621622,mo-ped,ODOD,mo-ped,1,mo-ped,1,mo-ped,1
+v1.18,nectarine_apple_blueberry,nectarine,apple,blueberry,0.72972972972973,0.72972972972973,apple,CC,blueberry,0,blueberry,0,blueberry,0
+v2.18,grapefruit_parsley_pumpkin,grapefruit,parsley,pumpkin,0.189189189189189,0.810810810810811,pumpkin,CD,pumpkin,1,pumpkin,1,pumpkin,1
+v3.18,mango_coconut_louse,mango,coconut,louse,0.888888888888889,0.888888888888889,coconut,COD,coconut,1,coconut,1,coconut,1
+v4.18,pear_bean_gherkin,pear,bean,gherkin,0.621621621621622,0.621621621621622,bean,DD,gherkin,0,gherkin,0,bean,1
+v5.18,banana_colander_corn,banana,colander,corn,0.0810810810810811,0.918918918918919,corn,DOD,colander,0,corn,1,corn,1
+v6.18,fig_snake_wire brush,fig,snake,wire brush,0.648648648648649,0.648648648648649,snake,ODOD,wire brush,0,wire brush,0,NA,NA
+v1.19,radish_asparagus_eggplant,radish,asparagus,eggplant,0.540540540540541,0.540540540540541,asparagus,CC,asparagus,1,eggplant,0,asparagus,1
+v2.19,zucchini_lychee_watercress,zucchini,lychee,watercress,0.297297297297297,0.702702702702703,watercress,CD,watercress,1,lychee,0,NA,NA
+v3.19,brussels sprouts_bathing suit_eggplant,brussels sprouts,bathing suit,eggplant,0.162162162162162,0.837837837837838,eggplant,COD,eggplant,1,eggplant,1,NA,NA
+v4.19,garlic_dried date_lime,garlic,dried date,lime,0.513513513513513,0.513513513513513,dried date,DD,dried date,1,dried date,1,lime,0
+v5.19,brussels sprouts_cricket_pumpkin,brussels sprouts,cricket,pumpkin,0.189189189189189,0.810810810810811,pumpkin,DOD,pumpkin,1,pumpkin,1,NA,NA
+v6.19,watercress_bison_dove,watercress,bison,dove,0.378378378378378,0.621621621621622,dove,ODOD,dove,1,dove,1,NA,NA
+v1.20,tongs_crowbar_pickaxe,tongs,crowbar,pickaxe,0.648648648648649,0.648648648648649,crowbar,CC,crowbar,1,crowbar,1,crowbar,1
+v2.20,hammer_axe_prybar,hammer,axe,prybar,0.75,0.75,axe,CD,axe,1,prybar,0,NA,NA
+v3.20,wrench_pepper_putty knife,wrench,pepper,putty knife,0,1,putty knife,COD,putty knife,1,putty knife,1,NA,NA
+v4.20,tongs_spatula_wok,tongs,spatula,wok,0.864864864864865,0.864864864864865,spatula,DD,wok,0,spatula,1,spatula,1
+v5.20,pickaxe_beet_panties,pickaxe,beet,panties,0.594594594594595,0.594594594594595,beet,DOD,panties,0,beet,1,panties,0
+v6.20,wood saw_polar bear_whale,wood saw,polar bear,whale,0.675675675675676,0.675675675675676,polar bear,ODOD,polar bear,1,whale,0,NA,NA
+v1.21,furnace_plate_whisk,furnace,plate,whisk,0.648648648648649,0.648648648648649,plate,CC,whisk,0,whisk,0,plate,1
+v2.21,coffee maker_hat_microwave,coffee maker,hat,microwave,0.138888888888889,0.861111111111111,microwave,CD,microwave,1,microwave,1,NA,NA
+v3.21,pan_bottle_donkey,pan,bottle,donkey,0.918918918918919,0.918918918918919,bottle,COD,bottle,1,bottle,1,bottle,1
+v4.21,can opener_skirt_socks,can opener,skirt,socks,0.432432432432432,0.567567567567568,socks,DD,socks,1,socks,1,NA,NA
+v5.21,fridge_bathing suit_pear,fridge,bathing suit,pear,0.222222222222222,0.777777777777778,pear,DOD,bathing suit,0,bathing suit,0,NA,NA
+v6.21,spatula_bean_crow,spatula,bean,crow,0.783783783783784,0.783783783783784,bean,ODOD,crow,0,crow,0,bean,1
+v1.22,piano_bagpipe_tambourine,piano,bagpipe,tambourine,0.540540540540541,0.540540540540541,bagpipe,CC,bagpipe,1,bagpipe,1,bagpipe,1
+v2.22,pan pipe_organ_vacuum,pan pipe,organ,vacuum,0.621621621621622,0.621621621621622,organ,CD,organ,1,organ,1,NA,NA
+v3.22,bassoon_cymbals_potato,bassoon,cymbals,potato,0.918918918918919,0.918918918918919,cymbals,COD,cymbals,1,cymbals,1,cymbals,1
+v4.22,drum_sled_whip,drum,sled,whip,0.432432432432432,0.567567567567568,whip,DD,sled,0,sled,0,whip,1
+v5.22,synthesizer_hat_robin,synthesizer,hat,robin,0.5,0.5,hat,DOD,hat,1,hat,1,robin,0
+v6.22,harpsichord_blackbird_earwig,harpsichord,blackbird,earwig,0.621621621621622,0.621621621621622,blackbird,ODOD,blackbird,1,blackbird,1,earwig,0
+v1.23,pyjamas_blouse_sweater,pyjamas,blouse,sweater,0.351351351351351,0.648648648648649,sweater,CC,blouse,0,sweater,1,sweater,1
+v2.23,skirt_accordion_coat,skirt,accordion,coat,0.135135135135135,0.864864864864865,coat,CD,coat,1,coat,1,coat,1
+v3.23,belt_apricot_coat,belt,apricot,coat,0.0833333333333333,0.916666666666667,coat,COD,coat,1,coat,1,coat,1
+v4.23,sweater_slingshot_van,sweater,slingshot,van,0.527777777777778,0.527777777777778,slingshot,DD,van,0,slingshot,1,NA,NA
+v5.23,halter top_bus_ladybug,halter top,bus,ladybug,0.571428571428571,0.571428571428571,bus,DOD,ladybug,0,ladybug,0,bus,1
+v6.23,pyjamas_chameleon_falcon,pyjamas,chameleon,falcon,0.513513513513513,0.513513513513513,chameleon,ODOD,chameleon,1,chameleon,1,chameleon,1
+v1.24,club_army tank_sword,club,army tank,sword,0.162162162162162,0.837837837837838,sword,CC,sword,1,sword,1,army tank,0
+v2.24,club_grenade_lawnmower,club,grenade,lawnmower,0.861111111111111,0.861111111111111,grenade,CD,grenade,1,grenade,1,NA,NA
+v3.24,grenade_shark_whip,grenade,shark,whip,0.0555555555555556,0.944444444444444,whip,COD,whip,1,whip,1,whip,1
+v4.24,rope_mittens_truck,rope,mittens,truck,0.594594594594595,0.594594594594595,mittens,DD,mittens,1,mittens,1,mittens,1
+v5.24,spear_accordion_horsefly,spear,accordion,horsefly,0.777777777777778,0.777777777777778,accordion,DOD,horsefly,0,accordion,1,horsefly,0
+v6.24,whip_lion_zebra,whip,lion,zebra,0.756756756756757,0.756756756756757,lion,ODOD,lion,1,zebra,0,lion,1
+v1.25,trailer_mo-ped_submarine,trailer,mo-ped,submarine,0.594594594594595,0.594594594594595,mo-ped,CC,submarine,0,mo-ped,1,mo-ped,1
+v2.25,car_bathing suit_truck,car,bathing suit,truck,0.162162162162162,0.837837837837838,truck,CD,truck,1,truck,1,NA,NA
+v3.25,bus_pelican_scooter,bus,pelican,scooter,0.138888888888889,0.861111111111111,scooter,COD,scooter,1,scooter,1,scooter,1
+v4.25,truck_furnace_screwdriver,truck,furnace,screwdriver,0.486486486486487,0.513513513513513,screwdriver,DD,furnace,0,furnace,0,furnace,0
+v5.25,rocket_accordion_lime,rocket,accordion,lime,0.756756756756757,0.756756756756757,accordion,DOD,lime,0,accordion,1,accordion,1
+v6.25,hot air balloon_fig_leek,hot air balloon,fig,leek,0.432432432432432,0.567567567567568,leek,ODOD,fig,0,leek,1,NA,NA
+v1.26,ladybug_centipede_leech,ladybug,centipede,leech,0.918918918918919,0.918918918918919,centipede,CC,centipede,1,centipede,1,centipede,1
+v2.26,horsefly_butterfly_turkey,horsefly,butterfly,turkey,0.864864864864865,0.864864864864865,butterfly,CD,butterfly,1,butterfly,1,butterfly,1
+v3.26,moth_ladybug_passionfruit,moth,ladybug,passionfruit,0.918918918918919,0.918918918918919,ladybug,COD,ladybug,1,ladybug,1,NA,NA
+v4.26,wasp_deer_mouse,wasp,deer,mouse,0.135135135135135,0.864864864864865,mouse,DD,mouse,1,mouse,1,mouse,1
+v5.26,beetle_frog_grape,beetle,frog,grape,0.783783783783784,0.783783783783784,frog,DOD,frog,1,frog,1,frog,1
+v6.26,ant_banana_eggplant,ant,banana,eggplant,0.594594594594595,0.594594594594595,banana,ODOD,eggplant,0,banana,1,banana,1
+v1.27,swordfish_orca_trout,swordfish,orca,trout,0.324324324324324,0.675675675675676,trout,CC,orca,0,trout,1,trout,1
+v2.27,goldfish_canary_orca,goldfish,canary,orca,0.378378378378378,0.621621621621622,orca,CD,orca,1,canary,0,orca,1
+v3.27,northern pike_sperm whale_tomato,northern pike,sperm whale,tomato,0.783783783783784,0.783783783783784,sperm whale,COD,sperm whale,1,sperm whale,1,NA,NA
+v4.27,goldfish_cuckoo_snake,goldfish,cuckoo,snake,0.378378378378378,0.621621621621622,snake,DD,snake,1,cuckoo,0,cuckoo,0
+v5.27,squid_cobra_pea,squid,cobra,pea,0.837837837837838,0.837837837837838,cobra,DOD,cobra,1,cobra,1,pea,0
+v6.27,sperm whale_organ_pepper,sperm whale,organ,pepper,0.810810810810811,0.810810810810811,organ,ODOD,organ,1,organ,1,NA,NA
+v1.28,chameleon_crocodile_lizard,chameleon,crocodile,lizard,0.297297297297297,0.702702702702703,lizard,CC,lizard,1,lizard,1,lizard,1
+v2.28,alligator_boa constrictor_ostrich,alligator,boa constrictor,ostrich,0.783783783783784,0.783783783783784,boa constrictor,CD,boa constrictor,1,ostrich,0,ostrich,0
+v3.28,python_iguana_skateboard,python,iguana,skateboard,0.891891891891892,0.891891891891892,iguana,COD,iguana,1,iguana,1,iguana,1
+v4.28,dinosaur_brown bat_pelican,dinosaur,brown bat,pelican,0.25,0.75,pelican,DD,brown bat,0,pelican,1,pelican,1
+v5.28,cobra_cherry_penguin,cobra,cherry,penguin,0.0810810810810811,0.918918918918919,penguin,DOD,penguin,1,penguin,1,penguin,1
+v6.28,tortoise_fridge_harpsichord,tortoise,fridge,harpsichord,0.486486486486487,0.513513513513513,harpsichord,ODOD,fridge,0,harpsichord,1,fridge,0
+v1.29,owl_cuckoo_rooster,owl,cuckoo,rooster,0.459459459459459,0.540540540540541,rooster,CC,cuckoo,0,rooster,1,cuckoo,0
+v2.29,chicken_dove_moth,chicken,dove,moth,0.864864864864865,0.864864864864865,dove,CD,dove,1,dove,1,dove,1
+v3.29,heron_mo-ped_stork,heron,mo-ped,stork,0,1,stork,COD,stork,1,stork,1,stork,1
+v4.29,dove_beetle_tiger,dove,beetle,tiger,0.810810810810811,0.810810810810811,beetle,DD,tiger,0,tiger,0,tiger,0
+v5.29,heron_accordion_turtle,heron,accordion,turtle,0.216216216216216,0.783783783783784,turtle,DOD,turtle,1,turtle,1,turtle,1
+v6.29,blackbird_mango_violin,blackbird,mango,violin,0.567567567567568,0.567567567567568,mango,ODOD,mango,1,violin,0,mango,1
+v1.30,deer_lion_tiger,deer,lion,tiger,0.351351351351351,0.648648648648649,tiger,CC,tiger,1,tiger,1,lion,0
+v2.30,brown bat_ladybug_tiger,brown bat,ladybug,tiger,0.675675675675676,0.675675675675676,ladybug,CD,tiger,0,ladybug,1,tiger,0
+v3.30,tiger_hedgehog_vacuum,tiger,hedgehog,vacuum,0.891891891891892,0.891891891891892,hedgehog,COD,hedgehog,1,hedgehog,1,NA,NA
+v4.30,elephant_sperm whale_swan,elephant,sperm whale,swan,0.810810810810811,0.810810810810811,sperm whale,DD,sperm whale,1,swan,0,NA,NA
+v5.30,pig_overalls_sardine,pig,overalls,sardine,0.189189189189189,0.810810810810811,sardine,DOD,sardine,1,sardine,1,sardine,1
+v6.30,dog_organ_pan,dog,organ,pan,0.583333333333333,0.583333333333333,organ,ODOD,pan,0,organ,1,pan,0
+v1.31,lime_blackberry_blueberry,lime,blackberry,blueberry,0.405405405405405,0.594594594594595,blueberry,CC,blueberry,1,blueberry,1,blueberry,1
+v2.31,nectarine_cauliflower_orange,nectarine,cauliflower,orange,0.243243243243243,0.756756756756757,orange,CD,orange,1,orange,1,cauliflower,0
+v3.31,grape_club_passionfruit,grape,club,passionfruit,0.027027027027027,0.972972972972973,passionfruit,COD,passionfruit,1,passionfruit,1,NA,NA
+v4.31,dried date_cauliflower_mushroom,dried date,cauliflower,mushroom,0.351351351351351,0.648648648648649,mushroom,DD,mushroom,1,mushroom,1,mushroom,1
+v5.31,papaya_gherkin_paintbrush,papaya,gherkin,paintbrush,0.805555555555556,0.805555555555556,gherkin,DOD,gherkin,1,gherkin,1,NA,NA
+v6.31,lime_alligator_turkey,lime,alligator,turkey,0.432432432432432,0.567567567567568,turkey,ODOD,alligator,0,turkey,1,turkey,1
+v1.32,cucumber_garlic_radish,cucumber,garlic,radish,0.27027027027027,0.72972972972973,radish,CC,radish,1,radish,1,radish,1
+v2.32,potato_mushroom_raspberry,potato,mushroom,raspberry,0.8,0.8,mushroom,CD,mushroom,1,mushroom,1,mushroom,1
+v3.32,potato_celery_pelican,potato,celery,pelican,0.888888888888889,0.888888888888889,celery,COD,celery,1,celery,1,celery,1
+v4.32,potato_orange_peach,potato,orange,peach,0.405405405405405,0.594594594594595,peach,DD,peach,1,orange,0,peach,1
+v5.32,onion_parakeet_pumpkin,onion,parakeet,pumpkin,0.0540540540540541,0.945945945945946,pumpkin,DOD,pumpkin,1,pumpkin,1,pumpkin,1
+v6.32,onion_slingshot_van,onion,slingshot,van,0.702702702702703,0.702702702702703,slingshot,ODOD,slingshot,1,slingshot,1,NA,NA
+v1.33,plough_axe_knife,plough,axe,knife,0.648648648648649,0.648648648648649,axe,CC,axe,1,axe,1,axe,1
+v2.33,wire brush_putty knife_shield,wire brush,putty knife,shield,0.837837837837838,0.837837837837838,putty knife,CD,putty knife,1,putty knife,1,NA,NA
+v3.33,wood saw_pickaxe_salamander,wood saw,pickaxe,salamander,0.972222222222222,0.972222222222222,pickaxe,COD,pickaxe,1,pickaxe,1,pickaxe,1
+v4.33,hammer_archery bow_electric kettle,hammer,archery bow,electric kettle,0.675675675675676,0.675675675675676,archery bow,DD,electric kettle,0,electric kettle,0,NA,NA
+v5.33,wood saw_costume_whale,wood saw,costume,whale,0.594594594594595,0.594594594594595,costume,DOD,costume,1,whale,0,costume,1
+v6.33,putty knife_beetle_hamster,putty knife,beetle,hamster,0.571428571428571,0.571428571428571,beetle,ODOD,beetle,1,beetle,1,NA,NA
+v1.34,oven_grater_whisk,oven,grater,whisk,0.486486486486487,0.513513513513513,whisk,CC,whisk,1,grater,0,whisk,1
+v2.34,toaster_shield_spoon,toaster,shield,spoon,0.162162162162162,0.837837837837838,spoon,CD,spoon,1,spoon,1,spoon,1
+v3.34,furnace_camel_wok,furnace,camel,wok,0.0810810810810811,0.918918918918919,wok,COD,wok,1,wok,1,wok,1
+v4.34,jar_coat_pyjamas,jar,coat,pyjamas,0.756756756756757,0.756756756756757,coat,DD,coat,1,pyjamas,0,coat,1
+v5.34,colander_bean_truck,colander,bean,truck,0.72972972972973,0.72972972972973,bean,DOD,truck,0,bean,1,bean,1
+v6.34,drinking glass_beet_parrot,drinking glass,beet,parrot,0.72972972972973,0.72972972972973,beet,ODOD,beet,1,beet,1,beet,1
+v1.35,trumpet_organ_saxophone,trumpet,organ,saxophone,0.0810810810810811,0.918918918918919,saxophone,CC,saxophone,1,saxophone,1,saxophone,1
+v2.35,pan pipe_harmonica_toaster,pan pipe,harmonica,toaster,0.694444444444444,0.694444444444444,harmonica,CD,harmonica,1,harmonica,1,NA,NA
+v3.35,harpsichord_guitar_lime,harpsichord,guitar,lime,0.945945945945946,0.945945945945946,guitar,COD,guitar,1,guitar,1,guitar,1
+v4.35,flute_electric kettle_machine gun,flute,electric kettle,machine gun,0.648648648648649,0.648648648648649,electric kettle,DD,machine gun,0,electric kettle,1,NA,NA
+v5.35,flute_archery bow_dog,flute,archery bow,dog,0.916666666666667,0.916666666666667,archery bow,DOD,archery bow,1,archery bow,1,NA,NA
+v6.35,trombone_fox_giraffe,trombone,fox,giraffe,0.314285714285714,0.685714285714286,giraffe,ODOD,fox,0,fox,0,giraffe,1
+v1.36,hat_dress_scarf,hat,dress,scarf,0.222222222222222,0.777777777777778,scarf,CC,scarf,1,scarf,1,dress,0
+v2.36,belt_hat_spear,belt,hat,spear,0.783783783783784,0.783783783783784,hat,CD,hat,1,hat,1,hat,1
+v3.36,scarf_belt_pig,scarf,belt,pig,0.864864864864865,0.864864864864865,belt,COD,belt,1,belt,1,belt,1
+v4.36,bathing suit_accordion_archery bow,bathing suit,accordion,archery bow,0.540540540540541,0.540540540540541,accordion,DD,accordion,1,accordion,1,NA,NA
+v5.36,hat_cannon_toad,hat,cannon,toad,0.694444444444444,0.694444444444444,cannon,DOD,cannon,1,cannon,1,cannon,1
+v6.36,socks_cow_fig,socks,cow,fig,0.648648648648649,0.648648648648649,cow,ODOD,fig,0,cow,1,cow,1
+v1.37,machine gun_cannon_club,machine gun,cannon,club,0.702702702702703,0.702702702702703,cannon,CC,cannon,1,club,0,cannon,1
+v2.37,army tank_cap_rope,army tank,cap,rope,0.351351351351351,0.648648648648649,rope,CD,rope,1,rope,1,cap,0
+v3.37,spear_cow_whip,spear,cow,whip,0.108108108108108,0.891891891891892,whip,COD,whip,1,whip,1,whip,1
+v4.37,dagger_oilcan_prybar,dagger,oilcan,prybar,0.166666666666667,0.833333333333333,prybar,DD,prybar,1,oilcan,0,NA,NA
+v5.37,bazooka_boa constrictor_scissors,bazooka,boa constrictor,scissors,0.459459459459459,0.540540540540541,scissors,DOD,boa constrictor,0,boa constrictor,0,scissors,1
+v6.37,cannon_bee_blackbird,cannon,bee,blackbird,0.527777777777778,0.527777777777778,bee,ODOD,blackbird,0,blackbird,0,blackbird,0
+v1.38,carriage_motorbike_submarine,carriage,motorbike,submarine,0.75,0.75,motorbike,CC,motorbike,1,submarine,0,motorbike,1
+v2.38,mo-ped_electric kettle_hovercraft,mo-ped,electric kettle,hovercraft,0.162162162162162,0.837837837837838,hovercraft,CD,hovercraft,1,hovercraft,1,NA,NA
+v3.38,zeppelin_bumblebee_tram,zeppelin,bumblebee,tram,0.297297297297297,0.702702702702703,tram,COD,tram,1,tram,1,NA,NA
+v4.38,cart_belt_dagger,cart,belt,dagger,0.783783783783784,0.783783783783784,belt,DD,belt,1,dagger,0,belt,1
+v5.38,rocket_bagpipe_salmon,rocket,bagpipe,salmon,0.864864864864865,0.864864864864865,bagpipe,DOD,salmon,0,bagpipe,1,bagpipe,1
+v6.38,tractor_orange_rabbit,tractor,orange,rabbit,0.361111111111111,0.638888888888889,rabbit,ODOD,orange,0,orange,0,orange,0
